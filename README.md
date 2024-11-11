@@ -124,9 +124,13 @@ face-match/
 
 ## Demo
 
-Here is a short demonstration of how the Facial Recognition app works. It shows the process of uploading a query image, selecting a directory for image matching, and displaying the matched results in the Streamlit interface.
+Here is a short demonstration of how the Face Match app works. It shows the process of uploading a query image, selecting a directory for image matching, and displaying the matched results in the Streamlit interface.
 
-![Demo GIF](./IMAGES/IMG1.jpg)
+![Demo GIF](./IMAGES/IMAGE2.png)
+Select the query image and enter path to the directory, the process of matching will be started.
+![Demo GIF](./IMAGES/IMAGE1.png)
+Once matching process is completed, the results will be shown at the bottom of the page.
+
 
 ## Contact
 
@@ -136,8 +140,3 @@ Thank you for your interest in the Facial Match project. I welcome any feedback,
 - **GitHub**: [BehzadHassan](https://github.com/BehzadHassan)
 
 Your contributions, whether through code, ideas, or collaboration, are highly valued. Together, we can enhance and innovate on this project, making it even more robust and versatile.
-
----
-
-
-
