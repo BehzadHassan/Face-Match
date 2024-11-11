@@ -137,6 +137,5 @@ Once matching process is completed, the results will be shown at the bottom of t
 Thank you for your interest in the Facial Match project. I welcome any feedback, questions, or suggestions for further development. If you'd like assistance with implementing or extending this project, please don’t hesitate to reach out.
 
 - **Email**: [behzadhassan967@gmail.com](mailto:behzadhassan967@gmail.com)
-- **GitHub**: [BehzadHassan](https://github.com/BehzadHassan)
 
 Your contributions, whether through code, ideas, or collaboration, are highly valued. Together, we can enhance and innovate on this project, making it even more robust and versatile.
